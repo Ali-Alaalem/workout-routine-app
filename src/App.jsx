@@ -1,4 +1,4 @@
-// src/App.jsx
+
 import './App.css';
 
 const App = () => {

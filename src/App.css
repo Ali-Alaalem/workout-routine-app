@@ -1,8 +1,8 @@
 
 .completed {
-  text-decoration: line-through;
-}
-
-.not-completed {
-  color: red;
-}
+    text-decoration: line-through;
+  }
+  
+  .not-completed {
+    color: red;
+  }
